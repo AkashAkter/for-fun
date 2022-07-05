@@ -28,6 +28,42 @@ body {
     width: 80%;
 }
 
+.half-width4 img {
+    width: 100%;
+    border-radius: 30px;
+}
+
+.half-width3 {
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.half-width4 {
+    width: 50%;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 30px;
+    box-shadow: 5px 7px 40px gray;
+    border-radius: 30px;
+}
+
+.half-width5 {
+    width: 50%;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.child {
+    text-align: justify;
+
+}
+
+.child2 {
+    text-align: center;
+}
+
 .color {
     color: #058ef7;
 }
@@ -40,6 +76,16 @@ body {
 .para {
     text-align: justify;
     margin-bottom: 40px;
+}
+
+.para2 {
+    text-align: justify;
+    margin-bottom: 40px;
+}
+
+.para3 {
+    text-align: center;
+    margin: 15px 15px;
 }
 
 .link {
@@ -69,7 +115,11 @@ body {
     border-radius: 30px;
 }
 
-.para2 {
-    text-align: justify;
-    margin-bottom: 40px;
+
+.t-header {
+    font-weight: 900;
+}
+
+.header-f {
+    text-align: center;
 }
