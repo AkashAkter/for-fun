@@ -1,6 +1,7 @@
 body {
     font-family: 'Ubuntu', sans-serif;
     color: rgb(41, 38, 38);
+    margin: 0;
 }
 
 
@@ -122,4 +123,45 @@ body {
 
 .header-f {
     text-align: center;
+}
+
+.add-image {
+    background-image: url(Images/first.jpg);
+    background-size: 100%;
+}
+
+.add-image2 {
+    background-image: url(Images/second.png);
+    background-size: 100%;
+}
+
+footer {
+    background-image: url(Images/bottom.png);
+    background-size: 100%;
+    color: white;
+    text-align: center;
+    padding: 20px 10px 60px 10px;
+}
+
+footer span {
+    color: tomato;
+}
+
+footer h4 {
+    font-size: larger;
+    padding-bottom: 10px;
+}
+
+.lower {
+    box-shadow: 10px 10px 40px rgb(218, 205, 205);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.lower-item {
+    padding-left: 130px;
+    padding-right: 130px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: bold;
 }
